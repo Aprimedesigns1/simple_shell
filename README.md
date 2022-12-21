@@ -1,1 +1,1 @@
-this is my simple shell readme
+my simple shell readme
